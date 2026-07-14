@@ -110,7 +110,7 @@ TSLA.csv - Tesla historical stock price data
 - **Validation Method:** 60-day sliding window for time series preparation
 - **Model Assessment:** MAPE of **5.45%** indicates excellent predictive accuracy
 
-[!Prediction_plot](images/Stock_price_prediction_plot.png)
+![Prediction_plot](images/Stock_price_prediction_plot.png)
 
 ### Technical Achievements
 - Proper reproducibility setup for reliable model training
